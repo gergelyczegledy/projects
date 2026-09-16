@@ -9,7 +9,7 @@ The dependencies handled by PSoC Creator 4.4.
 
 ## Demonstration
 
-<video controls src="images/Color_sensor_480p.mp4" title="Color_sensor_in_action"></video>
+https://github.com/user-attachments/assets/f6d68847-1999-4c5b-a757-63f1654cf7b8
 
 ## Pictures
 
