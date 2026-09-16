@@ -4,7 +4,7 @@ This is an Android app that saves user input and runs it back later.
 
 ## Demonstration
 
-<video controls src="images/demo.mp4" title="Color_sensor_in_action"></video>
+https://github.com/user-attachments/assets/3fe29093-9af0-44c0-9601-8b366543fd39
 
 ## Pictures
 
