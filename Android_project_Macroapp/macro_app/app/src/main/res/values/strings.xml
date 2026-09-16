@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">macroapp</string>
+    <string name="accesibility_service_label">Background macro service</string>
+    <string name="accessibility_service_description">This services runs macros in background.</string>
+</resources>
